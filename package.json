@@ -21,5 +21,26 @@
   "bugs": {
     "url": "https://github.com/JoeMattie/react-fantastic/issues"
   },
-  "homepage": "https://github.com/JoeMattie/react-fantastic#readme"
+  "homepage": "https://github.com/JoeMattie/react-fantastic#readme",
+  "devDependencies": {
+    "babel-core": "^6.6.0",
+    "babel-eslint": "^5.0.0",
+    "babel-plugin-react-transform": "^2.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.5.0",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-1": "^6.5.0",
+    "eslint": "^2.2.0",
+    "eslint-plugin-babel": "^3.1.0",
+    "eslint-plugin-react": "^4.1.0",
+    "webpack": "^1.12.14",
+    "webpack-dev-middleware": "^1.5.1",
+    "webpack-hot-middleware": "^2.9.0"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "redbox-react": "^1.2.2"
+  }
 }
