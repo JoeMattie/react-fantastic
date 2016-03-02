@@ -1,0 +1,25 @@
+{
+  "name": "react-fantastic",
+  "version": "1.0.0",
+  "description": "A Fantastic Barebones Boilerplate for ReactJS!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeMattie/react-fantastic.git"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "webpack",
+    "babel"
+  ],
+  "author": "Joe Mattie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoeMattie/react-fantastic/issues"
+  },
+  "homepage": "https://github.com/JoeMattie/react-fantastic#readme"
+}
